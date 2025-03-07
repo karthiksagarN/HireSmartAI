@@ -1,0 +1,4 @@
+.env
+__pycache__/
+/Users/karthiksagar/HireSmartAI/backend-fastapi/app/__pycache__
+/Users/karthiksagar/HireSmartAI/frontend/node_modules
