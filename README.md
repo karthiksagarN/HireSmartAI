@@ -1,2 +1,1 @@
 # HireSmart-AI
-# HireSmartAI
